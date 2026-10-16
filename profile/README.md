@@ -10,6 +10,12 @@
 
 </div>
 
+## 🚀 Enter the Project Hub
+
+**[Open the Fort Point Project Hub →](https://github.com/fort-point-upskilling-collabs/fp-up-landing-page)**
+
+Browse project catalogs, active collaborations, onboarding resources, and ways to participate.
+
 ## Welcome
 
 Fort Point Upskilling Collaborations is a community for people who want to learn by making useful things together.
